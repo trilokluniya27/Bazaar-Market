@@ -1,0 +1,5 @@
+{
+    "cmake.sourceDirectory": "D:/Trilok Luniya/BazaarMarket/android/app/src/main/cpp",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
